@@ -1,6 +1,6 @@
 package Classcode.Tryout;
 
-public class MyTryout1 {
+public class JavaHw1 {
     public static void main(String[] args) {
         /*
         Store below scenario value in an appropriate dataType variable, and print the same in console.
@@ -23,22 +23,12 @@ public class MyTryout1 {
         System.out.println("the population in the country is: " + populationCountry);
         double mortgageRate = 0.05d;
         System.out.println("the current interest rate is: " + mortgageRate);
-        double balanceAccount = 16869.53;
+        double balanceAccount = 16869.54;
         System.out.println("the current bank balance is: " + balanceAccount);
         boolean isSunriseWest = false;
         System.out.println("Does the sun rise from the west? " + isSunriseWest);
         char firstName = 'W';
         char lastName = 'Y';
         System.out.println("My first and last initials of my name are:" + firstName + lastName);
-
-
-
-
-
-
-
-
-
-
     }
 }

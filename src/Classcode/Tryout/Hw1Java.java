@@ -1,6 +1,6 @@
 package Classcode.Tryout;
 
-public class MyTryout1 {
+public class Hw1Java {
     public static void main(String[] args) {
         /*
         Store below scenario value in an appropriate dataType variable, and print the same in console.
@@ -30,15 +30,5 @@ public class MyTryout1 {
         char firstName = 'W';
         char lastName = 'Y';
         System.out.println("My first and last initials of my name are:" + firstName + lastName);
-
-
-
-
-
-
-
-
-
-
     }
 }
