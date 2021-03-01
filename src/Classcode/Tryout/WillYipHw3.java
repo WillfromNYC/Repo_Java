@@ -48,16 +48,5 @@ public class WillYipHw3 {
         System.out.println("K -> C: " + df.format(kToCTemp) );
 
 
-
-
-
-
-
-
-
-        int celcius = 0;
-        int fahrenheit = 0;
-        int kelvin = 0;
-
     }
 }
