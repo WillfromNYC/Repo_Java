@@ -92,6 +92,7 @@ public class WillYipHw11Printer {
          p1.addToner(30);
          /** addToner(-10)
          *      // Invalid toner value **/
+         p1.addToner(-10);
 
 
     }
