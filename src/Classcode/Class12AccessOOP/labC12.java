@@ -1,6 +1,5 @@
-package Classcode.Class12;
+package Classcode.Class12AccessOOP;
 
-import java.sql.SQLOutput;
 import java.util.Arrays;
 
 public class labC12 {

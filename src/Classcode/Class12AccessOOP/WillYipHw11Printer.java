@@ -1,4 +1,4 @@
-package Classcode.Class12;
+package Classcode.Class12AccessOOP;
 
 public class WillYipHw11Printer {
     public static void main(String[] args) {

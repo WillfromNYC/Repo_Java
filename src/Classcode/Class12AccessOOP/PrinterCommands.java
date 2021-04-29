@@ -1,4 +1,4 @@
-package Classcode.Class12;
+package Classcode.Class12AccessOOP;
 
 public class PrinterCommands {
 
