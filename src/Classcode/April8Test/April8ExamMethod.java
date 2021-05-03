@@ -60,10 +60,18 @@ public class April8ExamMethod {
                 missingPosInt=i;
             }
         }
-
-
-
         return missingPosInt;
+    }
+
+    public int[] toSortIntArray (int[] intArray) {
+        int[] sortedIntArray = new int[intArray.length];
+        int j=0;
+        int lowArrayValue =0;
+        for (int i=0;i<intArray.length;i++) {
+           // if (intArray[i]>)
+        }
+
+        return sortedIntArray;
     }
 
     public void returnPoints(int speedInput) {
